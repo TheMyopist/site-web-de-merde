@@ -15,7 +15,7 @@
 .navbar-default .navbar-nav > li.anchor-active > a,
 .navbar-default .navbar-nav > li > a.anchor-active,
 #wrapper.version-iii #header.fixed-position .navbar-default .navbar-nav > li > a:hover{
-	color: #f56a6d;
+	color: #FCB43C;
 }
 
 .btn2,
@@ -30,7 +30,7 @@
 #header.style1 .nav-opener:hover:before,
 .contact-sec .contact-form .sub-btn:hover,
 .service-sec.style1 .service-list li:hover .icon {
-	background: #f56a6d;
+	background: #FCB43C;
 }
 
 .btn2,
@@ -39,7 +39,7 @@
 .portfolio-sec .filter-list .active a,
 .portfolio-sec .filter-list a:hover,
 .contact-sec .contact-form .sub-btn {
-	border-color: #f56a6d;
+	border-color: #FCB43C;
 }
 
 #portfolio-holder .col:before,
