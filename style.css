@@ -1191,8 +1191,8 @@ a.active {
 }
 
 .main-slider .title {
-	letter-spacing: 5px;
-	word-spacing: 3px;
+	letter-spacing: 3px;
+	word-spacing: 2px;
 	margin: 0 0 20px;
 	font: 500 16px/30px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #fff;
@@ -1282,7 +1282,7 @@ a.active {
 	vertical-align: middle;
 	margin: 0 0 0 -4px;
 }
-.main-slider .column .title:before, 
+.main-slider .column .title:before,
 .main-slider .column .title:after {
 	display: none;
 }
@@ -1617,8 +1617,8 @@ a.active {
 -------------------------------------------------------------------*/
 
 .main-header {
-	font: 300 20px/28px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #adabab;
+	font: 500 20px/28px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #FCB43C;
 	margin: 0 0 68px;
 }
 
@@ -2364,7 +2364,7 @@ a.active {
 }
 
 .team-sec .main-header {
-	font: 400 14px/20px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 500 20px/28px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin: 0 0 63px;
 }
 
@@ -2595,7 +2595,7 @@ a.active {
 }
 
 .contact-sec .address-list {
-	font: 400 14px/20px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 400 18px/20px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	overflow: hidden;
 	margin: 0;
 	color: #808080;
@@ -2653,7 +2653,7 @@ a.active {
 	width: 100%;
 	height: 40px;
 	background: none;
-	border-bottom: 1px solid #d9d9d9;
+	border-bottom: 1px solid #FCB43C;
 	outline: none;
 	border-radius: 0;
 	padding: 6px 0 0;
@@ -2661,7 +2661,7 @@ a.active {
 	border-left: none;
 	border-right: none;
 	box-shadow: none;
-	color: #808080;
+	color: #040404;
 }
 
 .contact-sec .contact-form .form-control.error{
@@ -2720,7 +2720,7 @@ a.active {
 	width: 100%;
 	min-height: 131px;
 	background: none;
-	border-bottom: 1px solid #d9d9d9;
+	border-bottom: 1px solid #FCB43C;
 	outline: none;
 	border-radius: 0;
 	padding: 13px 0 0;
@@ -2731,6 +2731,7 @@ a.active {
 	box-shadow: none;
 	margin: 0 0 8px;
 	color: #808080;
+	font-size: 16px;
 }
 
 .contact-sec .contact-form textarea.error {
@@ -2924,7 +2925,7 @@ a.active {
 #back-top:hover {
 	opacity: .9;
 }
-	
+
 .loader-container{
 	background: rgba(255, 255, 255, 0.9);
 	bottom: 0;
@@ -3035,4 +3036,3 @@ a.active {
 		top: 20px;
 	}
 }
-

@@ -1308,9 +1308,9 @@ html {
 
 body {
 	font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.428;
-	color: #808080;
+	color: #040404;
 	background-color: #fff;
 }
 
@@ -1765,7 +1765,8 @@ blockquote {
 	padding: 9.5px 19px;
 	margin: 0 0 19px;
 	font-size: 17.5px;
-	border-left: 5px solid #eee;
+	border-left: 3px solid #FCB43C;
+	color:#040404;
 }
 
 blockquote p:last-child,
@@ -2501,12 +2502,12 @@ select textarea input[type="text"] input[type="password"] input[type="datetime"]
 	width: 100%;
 	height: 33px;
 	padding: 6px 12px;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.428;
 	color: #fff;
 	background-color: #2b2a2a;
 	background-image: none;
-	border: 1px solid #ccc;
+	border: 1px solid #FCB43C;
 	border-radius: 0;
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
 	-webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
