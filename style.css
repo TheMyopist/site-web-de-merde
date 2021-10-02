@@ -2536,7 +2536,7 @@ a.active {
 }
 
 .contact-sec.style1 .contact-info {
-	background: #2b2b2b;
+	background: #fff;
 	border-radius: 5px;
 	margin: -104px 0 40px;
 	padding: 83px 83px 56px;
@@ -2595,10 +2595,10 @@ a.active {
 }
 
 .contact-sec .address-list {
-	font: 400 18px/20px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 400 20px/22px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	overflow: hidden;
 	margin: 0;
-	color: #808080;
+	color: #040404;
 }
 
 .contact-sec .address-list li {
@@ -2621,7 +2621,7 @@ a.active {
 }
 
 .contact-sec .address-list a {
-	color: #808080;
+	color: #040404;
 	float: left;
 	-webkit-transition: all .25s linear;
 	transition: all .25s linear;
@@ -2831,8 +2831,8 @@ a.active {
 }
 
 #footer .copyright {
-	font: 400 14px/20px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #555;
+	font: 400 16px/20px "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #FCB43C;
 	padding: 10px 0 0;
 }
 
@@ -2841,7 +2841,7 @@ a.active {
 }
 
 #footer .copyright p a {
-	color: #555;
+	color: #FCB43C;
 	-webkit-transition: all .25s linear;
 	transition: all .25s linear;
 }
