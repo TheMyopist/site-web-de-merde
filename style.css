@@ -74,6 +74,10 @@ img {
 	height: auto;
 }
 
+.navbar-copyright {
+	color:#fff;
+}
+
 .comment-form input[type="text"],
 .search-form input[type="text"],
 .post-password-form input[type="text"],
@@ -890,6 +894,7 @@ a.active {
 .nav-holder .footer {
 	overflow: hidden;
 }
+
 
 .nav-holder .footer .copyright {
 	margin: 0 0 35px;
